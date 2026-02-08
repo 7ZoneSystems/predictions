@@ -2,6 +2,8 @@
 Prediction DAY (1/50)
 # 2) Home Depot INC
 Prediction DAY (2/50)
+# 3) Dmart
+Prediction DAY (3/50)
 ## Disclaimer and Usage Notice
 
 ### Project Status
